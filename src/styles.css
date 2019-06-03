@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.width {
+  max-width: 232px;
+  max-height: 337px;
+}
